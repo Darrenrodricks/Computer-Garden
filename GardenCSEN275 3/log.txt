@@ -1,0 +1,78 @@
+TIMESTAMP, DAY, EVENT, EVENT_VALUE, PLANTS_ALIVE, DETAILS
+=========================================================
+2026-03-16 13:01:46, 0, INITIALIZE, SUCCESS, 15, Seeded=15, Types=[Basil, Rose, Tomato]
+2026-03-16 13:02:23, 0, RAIN, 29, 15, Applying rain
+2026-03-16 13:02:23, 0, DAY_END, RAIN:29, 15, DeathsToday=0
+2026-03-16 13:02:28, 1, TEMPERATURE, 78F, 15, Applying temperature
+2026-03-16 13:02:28, 1, DAY_END, TEMPERATURE:78F, 15, DeathsToday=0
+2026-03-16 13:02:34, 2, STATE, SNAPSHOT, 15, AliveIDs=[Basil#1, Rose#2, Tomato#3, Rose#4, Rose#5, Rose#6, Rose#7, Tomato#8, Tomato#9, Tomato#10, Tomato#11, Basil#12, Basil#13, Basil#14, Basil#15] | Sensors=[MOISTURE, TEMPERATURE, PEST] | Sprinklers=3
+2026-03-16 13:02:55, 2, PARASITE, whiteflies, 15, Infestation triggered
+2026-03-16 13:02:55, 2, DAY_END, PARASITE:whiteflies, 15, DeathsToday=0
+2026-03-16 13:02:58, 3, PARASITE, mites, 15, Infestation triggered
+2026-03-16 13:02:58, 3, DAY_END, PARASITE:mites, 15, DeathsToday=0
+2026-03-16 13:03:01, 4, TEMPERATURE, 49F, 15, Applying temperature
+2026-03-16 13:03:01, 4, DAY_END, TEMPERATURE:49F, 15, DeathsToday=0
+2026-03-16 13:03:28, 5, PARASITE, whiteflies, 15, Infestation triggered
+2026-03-16 13:03:28, 5, DAY_END, PARASITE:whiteflies, 15, DeathsToday=0
+2026-03-16 13:03:31, 6, RAIN, 11, 15, Applying rain
+2026-03-16 13:03:31, 6, DAY_END, RAIN:11, 15, DeathsToday=0
+2026-03-16 13:03:34, 7, RAIN, 26, 15, Applying rain
+2026-03-16 13:03:34, 7, DAY_END, RAIN:26, 15, DeathsToday=0
+2026-03-16 13:03:37, 8, TEMPERATURE, 49F, 15, Applying temperature
+2026-03-16 13:03:37, 8, DAY_END, TEMPERATURE:49F, 15, DeathsToday=0
+2026-03-16 13:03:40, 9, RAIN, 8, 15, Applying rain
+2026-03-16 13:03:40, 9, DAY_END, RAIN:8, 15, DeathsToday=0
+2026-03-16 13:03:43, 10, TEMPERATURE, 101F, 15, Applying temperature
+2026-03-16 13:03:43, 10, DAY_END, TEMPERATURE:101F, 15, DeathsToday=0
+2026-03-16 13:03:46, 11, TEMPERATURE, 53F, 15, Applying temperature
+2026-03-16 13:03:46, 11, DAY_END, TEMPERATURE:53F, 15, DeathsToday=0
+2026-03-16 13:03:57, 0, INITIALIZE, SUCCESS, 15, Seeded=15, Types=[Basil, Rose, Tomato]
+2026-03-16 13:06:52, 0, RAIN, 14, 15, Applying rain
+2026-03-16 13:06:52, 0, DAY_END, RAIN:14, 15, DeathsToday=0
+2026-03-16 13:06:55, 1, RAIN, 32, 15, Applying rain
+2026-03-16 13:06:55, 1, DAY_END, RAIN:32, 15, DeathsToday=0
+2026-03-16 13:06:58, 2, PARASITE, beetles, 15, Infestation triggered
+2026-03-16 13:06:58, 2, DAY_END, PARASITE:beetles, 15, DeathsToday=0
+2026-03-16 13:07:01, 3, TEMPERATURE, 93F, 15, Applying temperature
+2026-03-16 13:07:01, 3, DAY_END, TEMPERATURE:93F, 15, DeathsToday=0
+2026-03-16 13:07:04, 4, TEMPERATURE, 89F, 15, Applying temperature
+2026-03-16 13:07:04, 4, DAY_END, TEMPERATURE:89F, 15, DeathsToday=0
+2026-03-16 13:07:07, 5, RAIN, 34, 15, Applying rain
+2026-03-16 13:07:07, 5, DAY_END, RAIN:34, 15, DeathsToday=0
+2026-03-16 13:07:10, 6, TEMPERATURE, 66F, 15, Applying temperature
+2026-03-16 13:07:10, 6, DAY_END, TEMPERATURE:66F, 15, DeathsToday=0
+2026-03-16 13:07:13, 7, PARASITE, whiteflies, 15, Infestation triggered
+2026-03-16 13:07:13, 7, DAY_END, PARASITE:whiteflies, 15, DeathsToday=0
+2026-03-16 13:07:16, 8, PARASITE, whiteflies, 15, Infestation triggered
+2026-03-16 13:07:16, 8, DAY_END, PARASITE:whiteflies, 15, DeathsToday=0
+2026-03-16 13:07:19, 9, PARASITE, whiteflies, 15, Infestation triggered
+2026-03-16 13:07:19, 9, DAY_END, PARASITE:whiteflies, 15, DeathsToday=0
+2026-03-16 13:07:22, 10, PARASITE, aphids, 15, Infestation triggered
+2026-03-16 13:07:22, 10, DAY_END, PARASITE:aphids, 15, DeathsToday=0
+2026-03-16 13:07:25, 11, PARASITE, aphids, 15, Infestation triggered
+2026-03-16 13:07:25, 11, DAY_END, PARASITE:aphids, 15, DeathsToday=0
+2026-03-16 13:07:28, 12, TEMPERATURE, 97F, 15, Applying temperature
+2026-03-16 13:07:28, 12, DAY_END, TEMPERATURE:97F, 15, DeathsToday=0
+2026-03-16 13:07:31, 13, PARASITE, beetles, 15, Infestation triggered
+2026-03-16 13:07:31, 13, DAY_END, PARASITE:beetles, 15, DeathsToday=0
+2026-03-16 13:07:34, 14, TEMPERATURE, 110F, 15, Applying temperature
+2026-03-16 13:07:34, 14, DAY_END, TEMPERATURE:110F, 15, DeathsToday=0
+2026-03-16 13:07:37, 15, RAIN, 20, 15, Applying rain
+2026-03-16 13:07:37, 15, DAY_END, RAIN:20, 15, DeathsToday=0
+2026-03-16 13:07:40, 16, PARASITE, beetles, 15, Infestation triggered
+2026-03-16 13:07:40, 16, DAY_END, PARASITE:beetles, 15, DeathsToday=0
+2026-03-16 13:07:43, 17, TEMPERATURE, 85F, 15, Applying temperature
+2026-03-16 13:07:43, 17, DAY_END, TEMPERATURE:85F, 15, DeathsToday=0
+2026-03-16 13:07:46, 18, TEMPERATURE, 86F, 15, Applying temperature
+2026-03-16 13:07:46, 18, DAY_END, TEMPERATURE:86F, 15, DeathsToday=0
+2026-03-16 13:07:49, 19, RAIN, 20, 15, Applying rain
+2026-03-16 13:07:49, 19, DAY_END, RAIN:20, 15, DeathsToday=0
+2026-03-16 13:07:52, 20, PARASITE, whiteflies, 15, Infestation triggered
+2026-03-16 13:07:52, 20, DAY_END, PARASITE:whiteflies, 15, DeathsToday=0
+2026-03-16 13:07:55, 21, PARASITE, aphids, 15, Infestation triggered
+2026-03-16 13:07:55, 21, DAY_END, PARASITE:aphids, 15, DeathsToday=0
+2026-03-16 13:07:58, 22, RAIN, 22, 15, Applying rain
+2026-03-16 13:07:58, 22, DAY_END, RAIN:22, 15, DeathsToday=0
+2026-03-16 13:08:01, 23, TEMPERATURE, 109F, 15, Applying temperature
+2026-03-16 13:08:01, 23, DAY_END, TEMPERATURE:109F, 15, DeathsToday=0
+2026-03-16 13:08:04, 24, STATE, SNAPSHOT, 15, AliveIDs=[Basil#1, Rose#2, Tomato#3, Rose#4, Rose#5, Rose#6, Rose#7, Tomato#8, Tomato#9, Tomato#10, Tomato#11, Basil#12, Basil#13, Basil#14, Basil#15] | Sensors=[MOISTURE, TEMPERATURE, PEST] | Sprinklers=3

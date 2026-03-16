@@ -1,0 +1,16 @@
+{
+  "plants": [
+    {
+      "name": "Rose",
+      "amount": 4
+    },
+    {
+      "name": "Tomato",
+      "amount": 4
+    },
+    {
+      "name": "Basil",
+      "amount": 4
+    }
+  ]
+}
